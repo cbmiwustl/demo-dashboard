@@ -1,4 +1,4 @@
-Demo-Dashboard
+Demo Dashboard
 ==============
 
 This repository will contain the R code for the demonstration dashboard, which was designed by the Center for Biomedical Informatics at Washington University in St. Louis, using R programming language, and R packages: Shiny, rCharts and some others.
