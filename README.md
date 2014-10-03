@@ -24,4 +24,7 @@ This dashboard is fully compatible with Mozilla Firefox and Chrome browsers on a
 **NOTE:**
 There is slight difference in how the code will be displayed on shinyapps.io and on your local machine/Shiny Server, which is explained by platform differences. Please read the comments in the code to find out more.
 
+Funding 
+--------------
+Funding for this project was provided by the Washington University Institute of Clinical and Translational Sciences grant UL1TR000448 from the National Center for Advancing Translational Sciences (NCATS) of the National Institutes of Health (NIH).  The content is solely the responsibility of the authors and does not necessarily represent the official view of the NIH. The project was also supported by funding from Alvin J. Siteman Cancer Center, Grant # P30CA091842. All authors from Washington University School of Medicine declare no competing interests related to this work.
 
