@@ -13,7 +13,7 @@ Washington University in St. Louis
 
 This repository contains the R code for the demonstration dashboard, which was designed by the Center for Biomedical Informatics at Washington University in St. Louis, using R programming language, and R packages: Shiny, rCharts and some others.
 
-**To obtain the source code**, please visit the "release" link above and download the latest release zip folder.
+**TO DOWNLOAD SOURCE CODE**, please visit the **"RELEASE"** link above and download the latest release zip folder (click the **GREEN** button, saying "demo-dashboard.zip").
 
 The dashboard is open for public viewing at this link: https://cbmiwustl.shinyapps.io/demo-dashboard/
 
