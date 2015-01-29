@@ -1,0 +1,274 @@
+AssignId,House,Student,updated,monthYear,Status,Assignment,Student_A,startdate,hoursworked,Professor,Subject,ProfType
+10125,Gryff,Ron Weasley,9/11/1991,Sep-91,Incomplete,225,Ron Weasley,9/1/1991,6.36,Rolanda Hooch,Flying,Purely Good
+10254,Gryff,Hermione Granger,9/19/1991,Sep-91,Completed,354,Hermione Granger,9/9/1991,7.82,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10035,Gryff,Ron Weasley,9/24/1991,Sep-91,Completed,135,Ron Weasley,9/14/1991,6.72,Aurora Sinistra,Astronomy,Purely Good
+10126,Gryff,Hermione Granger,9/26/1991,Sep-91,Completed,226,Hermione Granger,9/16/1991,0.71,Rolanda Hooch,Flying,Purely Good
+10210,Slyth,Vincent Crabbe,10/3/1991,Oct-91,Completed,310,Vincent Crabbe,9/24/1991,7.42,Severus Snape,Potions,Chaotic Good
+10071,Gryff,Ron Weasley,10/7/1991,Oct-91,Completed,171,Ron Weasley,9/28/1991,7.04,Filius Flitwick,Charms,Purely Good
+10217,Gryff,Harry Potter,10/7/1991,Oct-91,Incomplete,317,Harry Potter,9/28/1991,7.15,Minerva McGonagall,Transfiguration,Purely Good
+10091,Gryff,Harry Potter,10/11/1991,Oct-91,Incomplete,191,Harry Potter,10/1/1991,3.38,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10127,Gryff,Harry Potter,10/12/1991,Oct-91,Completed,227,Harry Potter,10/2/1991,2.25,Rolanda Hooch,Flying,Purely Good
+10169,Huff,Susan Bones,10/25/1991,Oct-91,Completed,269,Susan Bones,10/15/1991,4.1,Cuthbert Binns,History of Magic,Purely Good
+10098,Huff,Ernest Macmillan,11/5/1991,Nov-91,Completed,198,Ernest Macmillan,10/26/1991,7.79,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10252,Raven,Cho Chang,11/5/1991,Nov-91,Incomplete,352,Cho Chang,10/26/1991,14.5,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10129,Gryff,Angelina Johnson,11/13/1991,Nov-91,Completed,229,Angelina Johnson,11/3/1991,4.02,Rolanda Hooch,Flying,Purely Good
+10130,Huff,Cedric Diggory,11/29/1991,Nov-91,Incomplete,230,Cedric Diggory,11/19/1991,4.8,Rolanda Hooch,Flying,Purely Good
+10131,Huff,Oliver Rivers,12/15/1991,Dec-91,Completed,231,Oliver Rivers,12/5/1991,15.47,Rolanda Hooch,Flying,Purely Good
+10132,Huff,Graham Romsey,12/31/1991,Dec-91,Completed,232,Graham Romsey,12/21/1991,16.26,Rolanda Hooch,Flying,Purely Good
+10133,Huff,Susan Bones,1/16/1992,Jan-92,Incomplete,233,Susan Bones,1/6/1992,2.16,Rolanda Hooch,Flying,Purely Good
+10197,Gryff,Ron Weasley,1/23/1992,Jan-92,Completed,297,Ron Weasley,1/13/1992,4.13,Severus Snape,Potions,Chaotic Good
+10134,Huff,Ernest Macmillan,1/31/1992,Jan-92,Incomplete,234,Ernest Macmillan,1/21/1992,1.74,Rolanda Hooch,Flying,Purely Good
+10146,Gryff,Neville Longbottom,2/3/1992,Feb-92,Incomplete,246,Neville Longbottom,1/24/1992,5.54,Pomona Sprout,Herbology,Purely Good
+10080,Huff,Ernest Macmillan,2/7/1992,Feb-92,Completed,180,Ernest Macmillan,1/28/1992,5.04,Filius Flitwick,Charms,Purely Good
+10253,Gryff,Ron Weasley,2/11/1992,Feb-92,Incomplete,353,Ron Weasley,2/1/1992,16.1,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10256,Raven,Luna Lovegood,3/4/1992,Mar-92,Completed,356,Luna Lovegood,2/22/1992,10.21,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10136,Slyth,Zubeida Khan,3/3/1992,Mar-92,Incomplete,236,Zubeida Khan,2/22/1992,1.55,Rolanda Hooch,Flying,Purely Good
+10137,Slyth,Theodore Nott,3/19/1992,Mar-92,Incomplete,237,Theodore Nott,3/9/1992,1.65,Rolanda Hooch,Flying,Purely Good
+10074,Gryff,Neville Longbottom,3/26/1992,Mar-92,Completed,174,Neville Longbottom,3/16/1992,7.93,Filius Flitwick,Charms,Purely Good
+10255,Huff,Cedric Diggory,4/3/1992,Apr-92,Incomplete,355,Cedric Diggory,3/24/1992,10.72,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10138,Slyth,Vincent Crabbe,4/4/1992,Apr-92,Completed,238,Vincent Crabbe,3/25/1992,7.21,Rolanda Hooch,Flying,Purely Good
+10251,Slyth,Vincent Crabbe,4/12/1992,Apr-92,Completed,351,Vincent Crabbe,4/2/1992,10.78,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10139,Slyth,Gregory Goyle,4/20/1992,Apr-92,Incomplete,239,Gregory Goyle,4/10/1992,9.51,Rolanda Hooch,Flying,Purely Good
+10095,Huff,Oliver Rivers,5/3/1992,May-92,Incomplete,195,Oliver Rivers,4/23/1992,4.96,Quirinus Quirrell,Defence Against the Dark Arts,Chaotic Evil
+10142,Raven,Jason Huntingdon,5/7/1992,May-92,Completed,242,Jason Huntingdon,4/28/1992,2.04,Rolanda Hooch,Flying,Purely Good
+10175,Slyth,Gregory Goyle,5/12/1992,May-92,Incomplete,275,Gregory Goyle,5/2/1992,10.19,Cuthbert Binns,History of Magic,Purely Good
+10141,Raven,Luna Lovegood,5/22/1992,May-92,Completed,241,Luna Lovegood,5/12/1992,2.9,Rolanda Hooch,Flying,Purely Good
+10232,Raven,Jason Huntingdon,5/23/1992,May-92,Incomplete,332,Jason Huntingdon,5/13/1992,10.36,Minerva McGonagall,Transfiguration,Purely Good
+10158,Raven,Cho Chang,9/11/1992,Sep-92,Incomplete,258,Cho Chang,9/1/1992,13.53,Pomona Sprout,Herbology,Purely Good
+10249,Slyth,Draco Malfoy,9/16/1992,Sep-92,Incomplete,349,Draco Malfoy,9/5/1992,9.21,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10092,Gryff,Neville Longbottom,10/6/1992,Oct-92,Completed,192,Neville Longbottom,9/21/1992,13.36,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10250,Slyth,Theodore Nott,10/5/1992,Oct-92,Incomplete,350,Theodore Nott,9/27/1992,9.53,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10227,Slyth,Theodore Nott,11/21/1992,Nov-92,Incomplete,327,Theodore Nott,11/11/1992,37.79,Minerva McGonagall,Transfiguration,Purely Good
+10245,Gryff,Hermione Granger,12/23/1992,Dec-92,Completed,345,Hermione Granger,12/13/1992,35.3,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10096,Huff,Graham Romsey,1/26/1993,Jan-93,Completed,196,Graham Romsey,1/13/1993,6.58,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10163,Gryff,Harry Potter,2/8/1993,Feb-93,Completed,263,Harry Potter,1/29/1993,1.27,Cuthbert Binns,History of Magic,Purely Good
+10100,Slyth,Zubeida Khan,2/11/1993,Feb-93,Incomplete,200,Zubeida Khan,2/1/1993,7.38,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10248,Huff,Oliver Rivers,3/6/1993,Mar-93,Incomplete,348,Oliver Rivers,2/27/1993,7.64,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10022,Huff,Cedric Diggory,3/17/1993,Mar-93,Incomplete,122,Cedric Diggory,3/7/1993,8.39,Septima Vector,Arithmancy,Purely Good
+10032,Raven,Cho Chang,3/30/1993,Mar-93,Incomplete,132,Cho Chang,3/21/1993,13.2,Septima Vector,Arithmancy,Purely Good
+10000,Gryff,Hermione Granger,4/13/1993,Apr-93,Incomplete,100,Hermione Granger,4/3/1993,9.01,Bathsheba Babbling,Ancient Runes,Purely Good
+10199,Gryff,Harry Potter,4/12/1993,Apr-93,Incomplete,299,Harry Potter,4/4/1993,6.85,Severus Snape,Potions,Chaotic Good
+10246,Gryff,Neville Longbottom,4/25/1993,Apr-93,Completed,346,Neville Longbottom,4/15/1993,7.91,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10034,Raven,Jason Huntingdon,5/7/1993,May-93,Incomplete,134,Jason Huntingdon,4/27/1993,11.32,Septima Vector,Arithmancy,Purely Good
+10247,Huff,Cedric Diggory,5/16/1993,May-93,Completed,347,Cedric Diggory,5/6/1993,12.12,Gilderoy Lockhart,Defence Against the Dark Arts,Purely Evil
+10012,Slyth,Vincent Crabbe,5/22/1993,May-93,Incomplete,112,Vincent Crabbe,5/12/1993,11.01,Bathsheba Babbling,Ancient Runes,Purely Good
+10262,Slyth,Draco Malfoy,10/21/1993,Oct-93,Completed,362,Draco Malfoy,9/5/1993,9.16,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10120,Slyth,Vincent Crabbe,10/13/1993,Oct-93,Completed,220,Vincent Crabbe,10/3/1993,7.29,Sybill Trelawney,Divination,Purely Good
+10261,Huff,Oliver Rivers,10/15/1993,Oct-93,Completed,361,Oliver Rivers,10/5/1993,7.45,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10104,Raven,Cho Chang,11/5/1993,Nov-93,Incomplete,204,Cho Chang,10/26/1993,16.49,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10174,Slyth,Vincent Crabbe,11/12/1993,Nov-93,Incomplete,274,Vincent Crabbe,11/2/1993,5.11,Cuthbert Binns,History of Magic,Purely Good
+10230,Raven,Cho Chang,11/12/1993,Nov-93,Completed,330,Cho Chang,11/2/1993,10.23,Minerva McGonagall,Transfiguration,Purely Good
+10190,Slyth,Zubeida Khan,12/1/1993,Dec-93,Completed,290,Zubeida Khan,11/21/1993,4.2,Charity Burbage,Muggle Studies,Purely Good
+10048,Slyth,Vincent Crabbe,12/4/1993,Dec-93,Incomplete,148,Vincent Crabbe,11/24/1993,8.78,Aurora Sinistra,Astronomy,Purely Good
+10063,Slyth,Draco Malfoy,12/14/1993,Dec-93,Completed,163,Draco Malfoy,12/4/1993,5.56,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10108,Gryff,Hermione Granger,12/25/1993,Dec-93,Incomplete,208,Hermione Granger,12/15/1993,9.27,Sybill Trelawney,Divination,Purely Good
+10066,Slyth,Vincent Crabbe,12/27/1993,Dec-93,Incomplete,166,Vincent Crabbe,12/17/1993,7.1,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10192,Slyth,Vincent Crabbe,2/8/1994,Feb-94,Completed,292,Vincent Crabbe,1/29/1994,0.92,Charity Burbage,Muggle Studies,Purely Good
+10258,Gryff,Neville Longbottom,4/20/1994,Apr-94,Completed,358,Neville Longbottom,2/10/1994,13.83,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10257,Gryff,Harry Potter,2/20/1994,Feb-94,Completed,357,Harry Potter,2/10/1994,4.68,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10259,Gryff,Angelina Johnson,3/31/1994,Mar-94,Completed,359,Angelina Johnson,3/21/1994,21.13,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10260,Huff,Cedric Diggory,4/3/1994,Apr-94,Incomplete,360,Cedric Diggory,3/24/1994,9.83,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10182,Gryff,Neville Longbottom,4/9/1994,Apr-94,Completed,282,Neville Longbottom,3/31/1994,0.78,Charity Burbage,Muggle Studies,Purely Good
+10102,Slyth,Vincent Crabbe,4/12/1994,Apr-94,Completed,202,Vincent Crabbe,4/2/1994,5.56,Remus Lupin,Defence Against the Dark Arts,Purely Good
+10031,Slyth,Gregory Goyle,4/16/1994,Apr-94,Incomplete,131,Gregory Goyle,4/6/1994,10.04,Septima Vector,Arithmancy,Purely Good
+10206,Huff,Ernest Macmillan,5/21/1994,May-94,Incomplete,306,Ernest Macmillan,5/11/1994,42.7,Severus Snape,Potions,Chaotic Good
+10093,Gryff,Angelina Johnson,9/17/1994,Sep-94,Incomplete,193,Angelina Johnson,9/7/1994,1.36,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10093,Gryff,Angelina Johnson,9/17/1994,Sep-94,Incomplete,193,Angelina Johnson,9/8/1994,6.67,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10054,Gryff,Hermione Granger,10/18/1994,Oct-94,Incomplete,154,Hermione Granger,9/8/1994,0.56,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10123,Raven,Luna Lovegood,9/19/1994,Sep-94,Completed,223,Luna Lovegood,9/9/1994,14.08,Sybill Trelawney,Divination,Purely Good
+10018,Gryff,Hermione Granger,9/23/1994,Sep-94,Completed,118,Hermione Granger,9/13/1994,3.66,Septima Vector,Arithmancy,Purely Good
+10157,Slyth,Gregory Goyle,9/28/1994,Sep-94,Incomplete,257,Gregory Goyle,9/18/1994,3.04,Pomona Sprout,Herbology,Purely Good
+10151,Huff,Susan Bones,10/6/1994,Oct-94,Completed,251,Susan Bones,9/26/1994,2.48,Pomona Sprout,Herbology,Purely Good
+10058,Huff,Cedric Diggory,10/9/1994,Oct-94,Completed,158,Cedric Diggory,9/29/1994,0.82,Wilhelmina Grubbly-Plank,Care of Magical Creatures,Purely Good
+10234,Huff,Ernest Macmillan,10/11/1994,Oct-94,Incomplete,334,Ernest Macmillan,10/1/1994,1.26,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10224,Huff,Ernest Macmillan,10/11/1994,Oct-94,Incomplete,324,Ernest Macmillan,10/1/1994,0.78,Minerva McGonagall,Transfiguration,Purely Good
+10147,Gryff,Angelina Johnson,10/15/1994,Oct-94,Incomplete,247,Angelina Johnson,10/5/1994,5.22,Pomona Sprout,Herbology,Purely Good
+10043,Huff,Susan Bones,10/19/1994,Oct-94,Completed,143,Susan Bones,10/9/1994,0.78,Aurora Sinistra,Astronomy,Purely Good
+10070,Raven,Jason Huntingdon,10/19/1994,Oct-94,Incomplete,170,Jason Huntingdon,10/9/1994,3.79,Wilhelmina Grubbly-Plank,Care of Magical Creatures,Purely Good
+10154,Slyth,Zubeida Khan,10/23/1994,Oct-94,Completed,254,Zubeida Khan,10/13/1994,1.86,Pomona Sprout,Herbology,Purely Good
+10111,Gryff,Angelina Johnson,10/26/1994,Oct-94,Incomplete,211,Angelina Johnson,10/16/1994,2.89,Sybill Trelawney,Divination,Purely Good
+10042,Huff,Graham Romsey,10/28/1994,Oct-94,Incomplete,142,Graham Romsey,10/18/1994,1.81,Aurora Sinistra,Astronomy,Purely Good
+10053,Gryff,Ron Weasley,11/10/1994,Nov-94,Completed,153,Ron Weasley,10/31/1994,12.48,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10045,Slyth,Draco Malfoy,11/18/1994,Nov-94,Completed,145,Draco Malfoy,11/8/1994,2.97,Aurora Sinistra,Astronomy,Purely Good
+10235,Slyth,Theodore Nott,11/21/1994,Nov-94,Incomplete,335,Theodore Nott,11/11/1994,1.07,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10219,Gryff,Angelina Johnson,11/22/1994,Nov-94,Incomplete,319,Angelina Johnson,11/12/1994,2.58,Minerva McGonagall,Transfiguration,Purely Good
+10021,Gryff,Angelina Johnson,11/27/1994,Nov-94,Incomplete,121,Angelina Johnson,11/17/1994,6.85,Septima Vector,Arithmancy,Purely Good
+10156,Slyth,Vincent Crabbe,12/1/1994,Dec-94,Incomplete,256,Vincent Crabbe,11/21/1994,6.12,Pomona Sprout,Herbology,Purely Good
+10017,Gryff,Ron Weasley,12/5/1994,Dec-94,Incomplete,117,Ron Weasley,11/25/1994,4.9,Septima Vector,Arithmancy,Purely Good
+10214,Raven,Jason Huntingdon,12/18/1994,Dec-94,Completed,314,Jason Huntingdon,12/8/1994,6.44,Severus Snape,Potions,Chaotic Good
+10237,Raven,Jason Huntingdon,12/23/1994,Dec-94,Incomplete,337,Jason Huntingdon,12/13/1994,4.43,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10212,Raven,Cho Chang,12/27/1994,Dec-94,Completed,312,Cho Chang,12/17/1994,10.23,Severus Snape,Potions,Chaotic Good
+10112,Huff,Cedric Diggory,12/31/1994,Dec-94,Incomplete,212,Cedric Diggory,12/21/1994,4.22,Sybill Trelawney,Divination,Purely Good
+10109,Gryff,Harry Potter,1/4/1995,Jan-95,Completed,209,Harry Potter,12/25/1994,3.83,Sybill Trelawney,Divination,Purely Good
+10003,Gryff,Angelina Johnson,1/9/1995,Jan-95,Completed,103,Angelina Johnson,12/30/1994,13.41,Bathsheba Babbling,Ancient Runes,Purely Good
+10076,Huff,Cedric Diggory,1/13/1995,Jan-95,Completed,176,Cedric Diggory,1/3/1995,8.07,Filius Flitwick,Charms,Purely Good
+10067,Slyth,Gregory Goyle,1/17/1995,Jan-95,Incomplete,167,Gregory Goyle,1/7/1995,9.03,Wilhelmina Grubbly-Plank,Care of Magical Creatures,Purely Good
+10067,Slyth,Gregory Goyle,1/17/1995,Jan-95,Incomplete,167,Gregory Goyle,1/8/1995,4.88,Wilhelmina Grubbly-Plank,Care of Magical Creatures,Purely Good
+10014,Raven,Cho Chang,1/22/1995,Jan-95,Completed,114,Cho Chang,1/12/1995,0.19,Bathsheba Babbling,Ancient Runes,Purely Good
+10164,Gryff,Neville Longbottom,1/26/1995,Jan-95,Incomplete,264,Neville Longbottom,1/16/1995,13.08,Cuthbert Binns,History of Magic,Purely Good
+10088,Raven,Jason Huntingdon,2/16/1995,Feb-95,Completed,188,Jason Huntingdon,2/6/1995,4.57,Filius Flitwick,Charms,Purely Good
+10062,Huff,Ernest Macmillan,2/16/1995,Feb-95,Incomplete,162,Ernest Macmillan,2/6/1995,2.22,Wilhelmina Grubbly-Plank,Care of Magical Creatures,Purely Good
+10036,Gryff,Hermione Granger,2/21/1995,Feb-95,Completed,136,Hermione Granger,2/11/1995,13.61,Aurora Sinistra,Astronomy,Purely Good
+10065,Slyth,Theodore Nott,2/23/1995,Feb-95,Completed,165,Theodore Nott,2/13/1995,1.39,Wilhelmina Grubbly-Plank,Care of Magical Creatures,Purely Good
+10238,Gryff,Harry Potter,2/29/1995,Feb-95,Incomplete,338,Harry Potter,2/19/1995,4.39,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10011,Slyth,Theodore Nott,2/29/1995,Feb-95,Completed,111,Theodore Nott,2/19/1995,11.16,Bathsheba Babbling,Ancient Runes,Purely Good
+10069,Raven,Luna Lovegood,3/1/1995,Mar-95,Incomplete,169,Luna Lovegood,2/19/1995,2.5,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10233,Gryff,Hermione Granger,4/3/1995,Apr-95,Completed,333,Hermione Granger,2/23/1995,2.12,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10097,Huff,Susan Bones,3/5/1995,Mar-95,Incomplete,197,Susan Bones,2/23/1995,8.26,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10143,Gryff,Ron Weasley,3/14/1995,Mar-95,Completed,243,Ron Weasley,3/4/1995,9.42,Pomona Sprout,Herbology,Purely Good
+10027,Slyth,Draco Malfoy,3/16/1995,Mar-95,Incomplete,127,Draco Malfoy,3/6/1995,0.13,Septima Vector,Arithmancy,Purely Good
+10086,Raven,Cho Chang,3/18/1995,Mar-95,Completed,186,Cho Chang,3/8/1995,3.75,Filius Flitwick,Charms,Purely Good
+10159,Raven,Luna Lovegood,3/23/1995,Mar-95,Incomplete,259,Luna Lovegood,3/13/1995,3.99,Pomona Sprout,Herbology,Purely Good
+10041,Huff,Oliver Rivers,3/27/1995,Mar-95,Incomplete,141,Oliver Rivers,3/17/1995,2.09,Aurora Sinistra,Astronomy,Purely Good
+10052,Raven,Jason Huntingdon,4/4/1995,Apr-95,Completed,152,Jason Huntingdon,3/25/1995,1.16,Aurora Sinistra,Astronomy,Purely Good
+10153,Slyth,Draco Malfoy,4/5/1995,Apr-95,Incomplete,253,Draco Malfoy,3/26/1995,3.22,Pomona Sprout,Herbology,Purely Good
+10208,Slyth,Zubeida Khan,4/7/1995,Apr-95,Completed,308,Zubeida Khan,3/28/1995,0.56,Severus Snape,Potions,Chaotic Good
+10061,Huff,Susan Bones,4/8/1995,Apr-95,Incomplete,161,Susan Bones,3/29/1995,0.31,Wilhelmina Grubbly-Plank,Care of Magical Creatures,Purely Good
+10166,Huff,Cedric Diggory,4/17/1995,Apr-95,Incomplete,266,Cedric Diggory,4/7/1995,8.03,Cuthbert Binns,History of Magic,Purely Good
+10228,Slyth,Vincent Crabbe,4/22/1995,Apr-95,Incomplete,328,Vincent Crabbe,4/12/1995,6.8,Minerva McGonagall,Transfiguration,Purely Good
+10030,Slyth,Vincent Crabbe,4/26/1995,Apr-95,Completed,130,Vincent Crabbe,4/16/1995,1.92,Septima Vector,Arithmancy,Purely Good
+10172,Slyth,Zubeida Khan,4/30/1995,Apr-95,Incomplete,272,Zubeida Khan,4/20/1995,0.23,Cuthbert Binns,History of Magic,Purely Good
+10114,Huff,Graham Romsey,5/5/1995,May-95,Incomplete,214,Graham Romsey,4/25/1995,6.21,Sybill Trelawney,Divination,Purely Good
+10040,Huff,Cedric Diggory,5/13/1995,May-95,Completed,140,Cedric Diggory,5/3/1995,12.64,Aurora Sinistra,Astronomy,Purely Good
+10236,Slyth,Gregory Goyle,5/25/1995,May-95,Incomplete,336,Gregory Goyle,5/11/1995,0.02,Alastor Moody,Defence Against the Dark Arts,Chaotic Evil
+10028,Slyth,Zubeida Khan,5/24/1995,May-95,Incomplete,128,Zubeida Khan,5/14/1995,6.28,Septima Vector,Arithmancy,Purely Good
+10162,Gryff,Hermione Granger,5/26/1995,May-95,Incomplete,262,Hermione Granger,5/16/1995,7.67,Cuthbert Binns,History of Magic,Purely Good
+10150,Huff,Graham Romsey,5/28/1995,May-95,Completed,250,Graham Romsey,5/18/1995,1.79,Pomona Sprout,Herbology,Purely Good
+10008,Huff,Ernest Macmillan,5/30/1995,May-95,Completed,108,Ernest Macmillan,5/20/1995,2.55,Bathsheba Babbling,Ancient Runes,Purely Good
+10242,Gryff,Harry Potter,10/1/1995,Oct-95,Incomplete,342,Harry Potter,9/6/1995,4.69,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10089,Gryff,Ron Weasley,9/16/1995,Sep-95,Incomplete,189,Ron Weasley,9/6/1995,10.75,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10244,Raven,Cho Chang,9/18/1995,Sep-95,Completed,344,Cho Chang,9/8/1995,1.29,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10026,Huff,Ernest Macmillan,9/23/1995,Sep-95,Completed,126,Ernest Macmillan,9/13/1995,0.6,Septima Vector,Arithmancy,Purely Good
+10189,Slyth,Draco Malfoy,9/27/1995,Sep-95,Incomplete,289,Draco Malfoy,9/17/1995,2.08,Charity Burbage,Muggle Studies,Purely Good
+10167,Huff,Oliver Rivers,10/2/1995,Oct-95,Completed,267,Oliver Rivers,9/22/1995,1.32,Cuthbert Binns,History of Magic,Purely Good
+10023,Huff,Oliver Rivers,10/4/1995,Oct-95,Incomplete,123,Oliver Rivers,9/24/1995,1.45,Septima Vector,Arithmancy,Purely Good
+10023,Huff,Oliver Rivers,10/4/1995,Oct-95,Incomplete,123,Oliver Rivers,9/25/1995,3.82,Septima Vector,Arithmancy,Purely Good
+10059,Huff,Oliver Rivers,10/8/1995,Oct-95,Completed,159,Oliver Rivers,9/28/1995,1.59,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10148,Huff,Cedric Diggory,10/10/1995,Oct-95,Incomplete,248,Cedric Diggory,9/30/1995,1.47,Pomona Sprout,Herbology,Purely Good
+10106,Raven,Jason Huntingdon,10/12/1995,Oct-95,Completed,206,Jason Huntingdon,10/2/1995,2.13,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10186,Huff,Graham Romsey,10/19/1995,Oct-95,Incomplete,286,Graham Romsey,10/9/1995,0.53,Charity Burbage,Muggle Studies,Purely Good
+10013,Slyth,Gregory Goyle,10/20/1995,Oct-95,Incomplete,113,Gregory Goyle,10/10/1995,1.07,Bathsheba Babbling,Ancient Runes,Purely Good
+10046,Slyth,Zubeida Khan,10/23/1995,Oct-95,Incomplete,146,Zubeida Khan,10/13/1995,3.77,Aurora Sinistra,Astronomy,Purely Good
+10193,Slyth,Gregory Goyle,10/28/1995,Oct-95,Completed,293,Gregory Goyle,10/18/1995,0.7,Charity Burbage,Muggle Studies,Purely Good
+10010,Slyth,Zubeida Khan,11/1/1995,Nov-95,Completed,110,Zubeida Khan,10/22/1995,0.95,Bathsheba Babbling,Ancient Runes,Purely Good
+10218,Gryff,Neville Longbottom,11/2/1995,Nov-95,Completed,318,Neville Longbottom,10/23/1995,1.72,Minerva McGonagall,Transfiguration,Purely Good
+10068,Raven,Cho Chang,11/9/1995,Nov-95,Incomplete,168,Cho Chang,10/30/1995,4.58,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10226,Slyth,Zubeida Khan,11/14/1995,Nov-95,Incomplete,326,Zubeida Khan,11/4/1995,6.71,Minerva McGonagall,Transfiguration,Purely Good
+10029,Slyth,Theodore Nott,11/22/1995,Nov-95,Incomplete,129,Theodore Nott,11/12/1995,12.79,Septima Vector,Arithmancy,Purely Good
+10055,Gryff,Harry Potter,11/27/1995,Nov-95,Completed,155,Harry Potter,11/17/1995,4.08,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10006,Huff,Graham Romsey,12/5/1995,Dec-95,Completed,106,Graham Romsey,11/25/1995,11.74,Bathsheba Babbling,Ancient Runes,Purely Good
+10024,Huff,Graham Romsey,12/14/1995,Dec-95,Incomplete,124,Graham Romsey,12/4/1995,3.27,Septima Vector,Arithmancy,Purely Good
+10215,Gryff,Ron Weasley,12/18/1995,Dec-95,Incomplete,315,Ron Weasley,12/8/1995,3.73,Minerva McGonagall,Transfiguration,Purely Good
+10144,Gryff,Hermione Granger,12/22/1995,Dec-95,Completed,244,Hermione Granger,12/12/1995,2.57,Pomona Sprout,Herbology,Purely Good
+10087,Raven,Luna Lovegood,1/17/1996,Jan-96,Completed,187,Luna Lovegood,1/7/1996,4.23,Filius Flitwick,Charms,Purely Good
+10179,Gryff,Ron Weasley,1/21/1996,Jan-96,Completed,279,Ron Weasley,1/11/1996,2.26,Charity Burbage,Muggle Studies,Purely Good
+10149,Huff,Oliver Rivers,2/3/1996,Feb-96,Incomplete,249,Oliver Rivers,1/24/1996,4.5,Pomona Sprout,Herbology,Purely Good
+10145,Gryff,Harry Potter,2/10/1996,Feb-96,Completed,245,Harry Potter,2/1/1996,3.93,Pomona Sprout,Herbology,Purely Good
+10124,Raven,Jason Huntingdon,2/12/1996,Feb-96,Completed,224,Jason Huntingdon,2/2/1996,7.21,Sybill Trelawney,Divination,Purely Good
+10263,Huff,Ernest Macmillan,2/16/1996,Feb-96,Incomplete,363,Ernest Macmillan,2/6/1996,3.83,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10099,Slyth,Draco Malfoy,2/19/1996,Feb-96,Completed,199,Draco Malfoy,2/9/1996,4.36,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10077,Huff,Oliver Rivers,2/20/1996,Feb-96,Incomplete,177,Oliver Rivers,2/10/1996,3.06,Filius Flitwick,Charms,Purely Good
+10020,Gryff,Neville Longbottom,2/20/1996,Feb-96,Incomplete,120,Neville Longbottom,2/10/1996,1.77,Septima Vector,Arithmancy,Purely Good
+10183,Gryff,Angelina Johnson,2/25/1996,Feb-96,Completed,283,Angelina Johnson,2/15/1996,0.44,Charity Burbage,Muggle Studies,Purely Good
+10171,Slyth,Draco Malfoy,2/28/1996,Feb-96,Completed,271,Draco Malfoy,2/18/1996,2.12,Cuthbert Binns,History of Magic,Purely Good
+10201,Gryff,Angelina Johnson,2/29/1996,Feb-96,Completed,301,Angelina Johnson,2/19/1996,1.9,Severus Snape,Potions,Chaotic Good
+10122,Raven,Cho Chang,2/31/1996,Feb-96,Completed,222,Cho Chang,2/21/1996,7.62,Firenze,Divination,Purely Good
+10176,Raven,Cho Chang,3/4/1996,Mar-96,Completed,276,Cho Chang,2/23/1996,12.06,Cuthbert Binns,History of Magic,Purely Good
+10084,Slyth,Vincent Crabbe,3/9/1996,Mar-96,Completed,184,Vincent Crabbe,2/28/1996,3.75,Filius Flitwick,Charms,Purely Good
+10231,Raven,Luna Lovegood,3/13/1996,Mar-96,Incomplete,331,Luna Lovegood,3/3/1996,2.73,Minerva McGonagall,Transfiguration,Purely Good
+10222,Huff,Graham Romsey,3/17/1996,Mar-96,Incomplete,322,Graham Romsey,3/7/1996,0.15,Minerva McGonagall,Transfiguration,Purely Good
+10204,Huff,Graham Romsey,3/21/1996,Mar-96,Completed,304,Graham Romsey,3/11/1996,4.28,Severus Snape,Potions,Chaotic Good
+10187,Huff,Susan Bones,3/24/1996,Mar-96,Completed,287,Susan Bones,3/14/1996,0.09,Charity Burbage,Muggle Studies,Purely Good
+10094,Huff,Cedric Diggory,3/27/1996,Mar-96,Incomplete,194,Cedric Diggory,3/17/1996,1.41,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10103,Slyth,Gregory Goyle,3/30/1996,Mar-96,Incomplete,203,Gregory Goyle,3/20/1996,2.75,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10025,Huff,Susan Bones,4/14/1996,Apr-96,Incomplete,125,Susan Bones,4/4/1996,9.21,Septima Vector,Arithmancy,Purely Good
+10243,Slyth,Theodore Nott,4/28/1996,Apr-96,Completed,343,Theodore Nott,4/6/1996,9.24,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10064,Slyth,Zubeida Khan,4/29/1996,Apr-96,Completed,164,Zubeida Khan,4/19/1996,7.67,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10177,Raven,Luna Lovegood,5/3/1996,May-96,Completed,277,Luna Lovegood,4/23/1996,6.13,Cuthbert Binns,History of Magic,Purely Good
+10223,Huff,Susan Bones,5/2/1996,May-96,Incomplete,323,Susan Bones,4/23/1996,8.28,Minerva McGonagall,Transfiguration,Purely Good
+10121,Slyth,Gregory Goyle,5/15/1996,May-96,Incomplete,221,Gregory Goyle,5/5/1996,9.45,Sybill Trelawney,Divination,Purely Good
+10241,Gryff,Hermione Granger,5/16/1996,May-96,Completed,341,Hermione Granger,5/6/1996,1.77,Dolores Umbridge,Defence Against the Dark Arts,Purely Evil
+10229,Slyth,Gregory Goyle,5/25/1996,May-96,Incomplete,329,Gregory Goyle,5/11/1996,5.76,Minerva McGonagall,Transfiguration,Purely Good
+10221,Huff,Oliver Rivers,9/13/1996,Sep-96,Completed,321,Oliver Rivers,9/3/1996,3.78,Minerva McGonagall,Transfiguration,Purely Good
+10047,Slyth,Theodore Nott,9/11/1996,Sep-96,Incomplete,147,Theodore Nott,9/5/1996,3.79,Aurora Sinistra,Astronomy,Purely Good
+10110,Gryff,Neville Longbottom,9/15/1996,Sep-96,Completed,210,Neville Longbottom,9/5/1996,3.15,Firenze,Divination,Purely Good
+10207,Slyth,Draco Malfoy,9/16/1996,Sep-96,Incomplete,307,Draco Malfoy,9/6/1996,4.98,Horace Slughorn,Potions,Chaotic Good
+10002,Gryff,Neville Longbottom,11/1/1996,Nov-96,Completed,102,Neville Longbottom,9/22/1996,3.09,Bathsheba Babbling,Ancient Runes,Purely Good
+10078,Huff,Graham Romsey,10/5/1996,Oct-96,Incomplete,178,Graham Romsey,9/25/1996,6.2,Filius Flitwick,Charms,Purely Good
+10001,Gryff,Harry Potter,10/9/1996,Oct-96,Completed,101,Harry Potter,9/30/1996,4.59,Bathsheba Babbling,Ancient Runes,Purely Good
+10101,Slyth,Theodore Nott,10/22/1996,Oct-96,Completed,201,Theodore Nott,10/12/1996,3.98,Severus Snape,Defence Against the Dark Arts,Chaotic Good
+10101,Slyth,Theodore Nott,10/22/1996,Oct-96,Completed,201,Theodore Nott,10/13/1996,4.08,Severus Snape,Defence Against the Dark Arts,Chaotic Good
+10160,Raven,Jason Huntingdon,10/31/1996,Oct-96,Completed,260,Jason Huntingdon,10/21/1996,6.3,Pomona Sprout,Herbology,Purely Good
+10038,Gryff,Neville Longbottom,11/4/1996,Nov-96,Completed,138,Neville Longbottom,10/25/1996,6.4,Aurora Sinistra,Astronomy,Purely Good
+10203,Huff,Oliver Rivers,11/6/1996,Nov-96,Incomplete,303,Oliver Rivers,10/27/1996,0.11,Horace Slughorn,Potions,Chaotic Good
+10049,Slyth,Gregory Goyle,11/8/1996,Nov-96,Completed,149,Gregory Goyle,10/29/1996,3.09,Aurora Sinistra,Astronomy,Purely Good
+10205,Huff,Susan Bones,11/8/1996,Nov-96,Completed,305,Susan Bones,10/29/1996,6.19,Horace Slughorn,Potions,Chaotic Good
+10016,Raven,Jason Huntingdon,11/17/1996,Nov-96,Completed,116,Jason Huntingdon,11/7/1996,4.38,Bathsheba Babbling,Ancient Runes,Purely Good
+10016,Raven,Jason Huntingdon,11/17/1996,Nov-96,Completed,116,Jason Huntingdon,11/8/1996,1.44,Bathsheba Babbling,Ancient Runes,Purely Good
+10117,Slyth,Draco Malfoy,11/25/1996,Nov-96,Incomplete,217,Draco Malfoy,11/15/1996,0.48,Firenze,Divination,Purely Good
+10116,Huff,Ernest Macmillan,11/30/1996,Nov-96,Incomplete,216,Ernest Macmillan,11/20/1996,1.2,Firenze,Divination,Purely Good
+10051,Raven,Luna Lovegood,12/2/1996,Dec-96,Completed,151,Luna Lovegood,11/22/1996,8.73,Aurora Sinistra,Astronomy,Purely Good
+10033,Raven,Luna Lovegood,12/8/1996,Dec-96,Incomplete,133,Luna Lovegood,11/28/1996,1.62,Septima Vector,Arithmancy,Purely Good
+10019,Gryff,Harry Potter,12/13/1996,Dec-96,Incomplete,119,Harry Potter,12/3/1996,7.56,Septima Vector,Arithmancy,Purely Good
+10005,Huff,Oliver Rivers,12/17/1996,Dec-96,Completed,105,Oliver Rivers,12/7/1996,7.11,Bathsheba Babbling,Ancient Runes,Purely Good
+10057,Gryff,Angelina Johnson,12/21/1996,Dec-96,Incomplete,157,Angelina Johnson,12/11/1996,5.08,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10198,Gryff,Hermione Granger,12/23/1996,Dec-96,Completed,298,Hermione Granger,12/13/1996,4.2,Horace Slughorn,Potions,Chaotic Good
+10170,Huff,Ernest Macmillan,1/16/1997,Jan-97,Incomplete,270,Ernest Macmillan,1/6/1997,8.62,Cuthbert Binns,History of Magic,Purely Good
+10015,Raven,Luna Lovegood,1/20/1997,Jan-97,Incomplete,115,Luna Lovegood,1/10/1997,7.76,Bathsheba Babbling,Ancient Runes,Purely Good
+10075,Gryff,Angelina Johnson,1/29/1997,Jan-97,Completed,175,Angelina Johnson,1/19/1997,5.47,Filius Flitwick,Charms,Purely Good
+10165,Gryff,Angelina Johnson,2/2/1997,Feb-97,Incomplete,265,Angelina Johnson,1/23/1997,10.95,Cuthbert Binns,History of Magic,Purely Good
+10168,Huff,Graham Romsey,2/6/1997,Feb-97,Incomplete,268,Graham Romsey,1/27/1997,8.08,Cuthbert Binns,History of Magic,Purely Good
+10213,Raven,Luna Lovegood,2/12/1997,Feb-97,Incomplete,313,Luna Lovegood,2/2/1997,7.24,Horace Slughorn,Potions,Chaotic Good
+10056,Gryff,Neville Longbottom,2/15/1997,Feb-97,Completed,156,Neville Longbottom,2/5/1997,6.7,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10264,Slyth,Theodore Nott,2/23/1997,Feb-97,Completed,364,Theodore Nott,2/13/1997,15.11,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10184,Huff,Cedric Diggory,2/28/1997,Feb-97,Incomplete,284,Cedric Diggory,2/18/1997,3.75,Charity Burbage,Muggle Studies,Purely Good
+10220,Huff,Cedric Diggory,3/2/1997,Mar-97,Completed,320,Cedric Diggory,2/23/1997,5.4,Minerva McGonagall,Transfiguration,Purely Good
+10082,Slyth,Zubeida Khan,3/8/1997,Mar-97,Incomplete,182,Zubeida Khan,2/26/1997,4.4,Filius Flitwick,Charms,Purely Good
+10107,Gryff,Ron Weasley,3/21/1997,Mar-97,Incomplete,207,Ron Weasley,3/11/1997,8.25,Firenze,Divination,Purely Good
+10032,Raven,Cho Chang,3/30/1997,Mar-97,Incomplete,132,Cho Chang,3/20/1997,11.19,Septima Vector,Arithmancy,Purely Good
+10090,Gryff,Hermione Granger,4/16/1997,Apr-97,Completed,190,Hermione Granger,4/6/1997,8.58,Severus Snape,Defence Against the Dark Arts,Chaotic Good
+10180,Gryff,Hermione Granger,4/20/1997,Apr-97,Incomplete,280,Hermione Granger,4/10/1997,8.99,Charity Burbage,Muggle Studies,Purely Good
+10200,Gryff,Neville Longbottom,4/25/1997,Apr-97,Completed,300,Neville Longbottom,4/15/1997,7.87,Horace Slughorn,Potions,Chaotic Good
+10085,Slyth,Gregory Goyle,4/29/1997,Apr-97,Completed,185,Gregory Goyle,4/19/1997,8.58,Filius Flitwick,Charms,Purely Good
+10115,Huff,Susan Bones,5/12/1997,May-97,Incomplete,215,Susan Bones,5/2/1997,8.15,Firenze,Divination,Purely Good
+10072,Gryff,Hermione Granger,5/16/1997,May-97,Completed,172,Hermione Granger,5/6/1997,10.78,Filius Flitwick,Charms,Purely Good
+10202,Huff,Cedric Diggory,5/16/1997,May-97,Completed,302,Cedric Diggory,5/6/1997,5.73,Horace Slughorn,Potions,Chaotic Good
+10079,Huff,Susan Bones,5/20/1997,May-97,Incomplete,179,Susan Bones,5/10/1997,2.4,Filius Flitwick,Charms,Purely Good
+10211,Slyth,Gregory Goyle,5/25/1997,May-97,Incomplete,311,Gregory Goyle,5/15/1997,9.22,Horace Slughorn,Potions,Chaotic Good
+10119,Slyth,Theodore Nott,10/2/1997,Oct-97,Completed,219,Theodore Nott,9/22/1997,10.06,Firenze,Divination,Purely Good
+10191,Slyth,Theodore Nott,10/7/1997,Oct-97,Completed,291,Theodore Nott,9/28/1997,4.19,Alecto Carrow,Muggle Studies,Purely Evil
+10181,Gryff,Harry Potter,10/29/1997,Oct-97,Incomplete,281,Harry Potter,10/19/1997,6.4,Alecto Carrow,Muggle Studies,Purely Evil
+10240,Slyth,Draco Malfoy,11/18/1997,Nov-97,Completed,340,Draco Malfoy,11/8/1997,25.45,Alecto Carrow,Muggle Studies,Purely Evil
+10194,Raven,Cho Chang,1/30/1998,Jan-98,Incomplete,294,Cho Chang,1/20/1998,4.67,Alecto Carrow,Muggle Studies,Purely Evil
+10188,Huff,Ernest Macmillan,2/3/1998,Feb-98,Completed,288,Ernest Macmillan,1/24/1998,7.21,Alecto Carrow,Muggle Studies,Purely Evil
+10196,Raven,Jason Huntingdon,5/17/1998,May-98,Completed,296,Jason Huntingdon,5/7/1998,14.9,Alecto Carrow,Muggle Studies,Purely Evil
+10239,Gryff,Angelina Johnson,5/29/1998,May-98,Completed,339,Angelina Johnson,5/7/1998,16.62,Alecto Carrow,Muggle Studies,Purely Evil
+10007,Huff,Susan Bones,9/18/1998,Sep-98,Completed,107,Susan Bones,9/8/1998,7.49,Bathsheba Babbling,Ancient Runes,Purely Good
+10004,Huff,Cedric Diggory,12/10/1995,Dec-95,Incomplete,104,Cedric Diggory,11/31/1995,7.02,Bathsheba Babbling,Ancient Runes,Purely Good
+10044,Huff,Ernest Macmillan,3/8/1995,Mar-95,Completed,144,Ernest Macmillan,2/29/1995,0.7,Aurora Sinistra,Astronomy,Purely Good
+10044,Huff,Ernest Macmillan,3/8/1995,Mar-95,Completed,144,Ernest Macmillan,2/30/1995,2.94,Aurora Sinistra,Astronomy,Purely Good
+10185,Huff,Oliver Rivers,11/15/1997,Nov-97,Completed,285,,,,Alecto Carrow,Muggle Studies,Purely Evil
+10037,Gryff,Harry Potter,5/29/1992,May-92,Completed,137,,,,Aurora Sinistra,Astronomy,Purely Good
+10039,Gryff,Angelina Johnson,5/29/1997,May-97,Completed,139,,,,Aurora Sinistra,Astronomy,Purely Good
+10050,Raven,Cho Chang,11/1/1994,Nov-94,Incomplete,150,,,,Aurora Sinistra,Astronomy,Purely Good
+10009,Slyth,Draco Malfoy,3/21/1997,Mar-97,Incomplete,109,,,,Bathsheba Babbling,Ancient Runes,Purely Good
+9999,Gryff,Ron Weasley,9/15/1995,Sep-95,Incomplete,99,,,,Bathsheba Babbling,Ancient Runes,Purely Good
+10195,Raven,Luna Lovegood,1/4/1996,Jan-96,Incomplete,295,,,,Charity Burbage,Muggle Studies,Purely Good
+10161,Gryff,Ron Weasley,4/12/1997,Apr-97,Completed,261,,,,Cuthbert Binns,History of Magic,Purely Good
+10178,Raven,Jason Huntingdon,12/9/1995,Dec-95,Completed,278,,,,Cuthbert Binns,History of Magic,Purely Good
+10173,Slyth,Theodore Nott,5/25/1997,May-97,Completed,273,,,,Cuthbert Binns,History of Magic,Purely Good
+10083,Slyth,Theodore Nott,4/28/1993,Apr-93,Incomplete,183,,,,Filius Flitwick,Charms,Purely Good
+10073,Gryff,Harry Potter,10/1/1996,Oct-96,Incomplete,173,,,,Filius Flitwick,Charms,Purely Good
+10081,Slyth,Draco Malfoy,9/26/1996,Sep-96,Incomplete,181,,,,Filius Flitwick,Charms,Purely Good
+10113,Huff,Oliver Rivers,9/22/1996,Sep-96,Completed,213,,,,Firenze,Divination,Purely Good
+10209,Slyth,Theodore Nott,9/5/1996,Sep-96,Incomplete,309,,,,Horace Slughorn,Potions,Chaotic Good
+10216,Gryff,Hermione Granger,4/3/1997,Apr-97,Incomplete,316,,,,Minerva McGonagall,Transfiguration,Purely Good
+10225,Slyth,Draco Malfoy,3/13/1997,Mar-97,Completed,325,,,,Minerva McGonagall,Transfiguration,Purely Good
+10155,Slyth,Theodore Nott,4/25/1997,Apr-97,Incomplete,255,,,,Pomona Sprout,Herbology,Purely Good
+10152,Huff,Ernest Macmillan,11/14/1991,Nov-91,Incomplete,252,,,,Pomona Sprout,Herbology,Purely Good
+10135,Slyth,Draco Malfoy,2/16/1992,Feb-92,Completed,235,,,,Rolanda Hooch,Flying,Purely Good
+10140,Raven,Cho Chang,5/6/1992,May-92,Incomplete,240,,,,Rolanda Hooch,Flying,Purely Good
+10128,Gryff,Neville Longbottom,10/28/1991,Oct-91,Completed,228,,,,Rolanda Hooch,Flying,Purely Good
+10060,Huff,Graham Romsey,5/9/1995,May-95,Completed,160,,,,Rubeus Hagrid,Care of Magical Creatures,Purely Good
+10105,Raven,Luna Lovegood,11/18/1996,Nov-96,Incomplete,205,,,,Severus Snape,Defence Against the Dark Arts,Chaotic Good
+10118,Slyth,Zubeida Khan,12/10/1994,Dec-94,Incomplete,218,,,,Sybill Trelawney,Divination,Purely Good
